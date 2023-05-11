@@ -7,7 +7,7 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "发现身边文明之美",
+  title: "福粥行天下，八闽为您服务",
   description: "扩容心中三米空间.",
   appleWebApp: {
     title: "三米空间公司为你服务",
