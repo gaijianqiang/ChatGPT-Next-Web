@@ -96,9 +96,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>为防Key超额失效，加群免费领大额Key，加微talk_AIGC</div>
+        <div className={styles["sidebar-title"]}>加微领Key</div>
         <div className={styles["sidebar-sub-title"]}>
-          ChatGPT Next Web.
+          微信：talk_AIGC.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
