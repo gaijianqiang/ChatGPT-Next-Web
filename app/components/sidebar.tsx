@@ -96,9 +96,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>欢迎个人或企业问询“专属”定制，价优</div>
+        <div className={styles["sidebar-title"]}>为防Key超额失效，加群免费领大额Key，加微talk_AIGC</div>
         <div className={styles["sidebar-sub-title"]}>
-          为防key超额失效，加群免费领大额key，加微talk_AIGC.
+          ChatGPT Next Web.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
