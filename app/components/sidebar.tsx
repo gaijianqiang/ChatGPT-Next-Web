@@ -96,7 +96,7 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>加微领Key</div>
+        <div className={styles["sidebar-title"]}>如遇报错，可联系我领新Key（不要钱）</div>
         <div className={styles["sidebar-sub-title"]}>
           微信：talk_AIGC.
         </div>
