@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "福粥行天下，八闽为您服务",
+  title: "搭站实践，开启开源学习之路",
   description: "欢迎个人或企业问询“专属”定制，价优.",
   appleWebApp: {
-    title: "为防key超额失效，进群免费领大额key,加微talk_AIGC",
+    title: "微信：talk_AIGC",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",
