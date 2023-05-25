@@ -98,7 +98,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>建专属站，速度贼快，送key，送源码，可做广告面</div>
         <div className={styles["sidebar-sub-title"]}>
-          微信：talk_AIGC.
+          微信：talk_AIGC
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
