@@ -7,10 +7,10 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "搭站实践，开启开源学习之路",
-  description: "欢迎个人或企业问询“专属”定制，价优.",
+  title: "a chat bot",
+  description: "your personal bot",
   appleWebApp: {
-    title: "微信：talk_AIGC",
+    title: "a chat bot",
     statusBarStyle: "default",
   },
   themeColor: "#fafafa",
